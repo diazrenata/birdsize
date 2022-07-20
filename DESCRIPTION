@@ -2,7 +2,7 @@ Package: birdsize
 Title: Estimate Avian Body Size Distributions
 Version: 0.0.0.9000
 Authors@R: 
-    person("Renata", "Diaz", , "renata.diaz@weecology.org", role = c("aut", "cre"),
+    person("Renata", "Diaz", , "diaz.renatam@icloud.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-0803-4734"))
 Description: Estimate avian body size distributions given species' mean body sizes or species IDs (as identified in the North American Breeding Bird Survey). 
 License: MIT + file LICENSE
@@ -11,7 +11,7 @@ BugReports: https://github.com/diazrenata/birdsize/issues
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.1
 Suggests: 
     covr,
     knitr,
